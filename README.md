@@ -1,1 +1,1 @@
-Just Asset for my challenge.
+Just Asset.
