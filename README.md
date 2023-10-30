@@ -1,1 +1,1 @@
-Just Asset.
+Just Asset for ctf chall.
